@@ -1,1 +1,2 @@
 # helloworld
+In a neural network, neurons are organized in layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first layer (input), to the last one (output), possibly after traversing the layers multiple times. As the last hidden layer, the “bottleneck” has enough summarized information to provide the next layer which does the actual classification task.
